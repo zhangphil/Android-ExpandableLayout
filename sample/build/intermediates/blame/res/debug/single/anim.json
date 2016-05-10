@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\expandable_hide.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\exploded-aar\\ExpandableLayout\\lib\\unspecified\\res\\anim\\expandable_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\anim\\expandable_show.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\exploded-aar\\ExpandableLayout\\lib\\unspecified\\res\\anim\\expandable_show.xml"
+    }
+]

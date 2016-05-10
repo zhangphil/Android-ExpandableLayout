@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\view_expandable.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\exploded-aar\\ExpandableLayout\\lib\\unspecified\\res\\layout\\view_expandable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\view_header.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\layout\\view_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\view_content.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\layout\\view_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\view_row.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\layout\\view_row.xml"
+    }
+]

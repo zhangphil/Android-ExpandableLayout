@@ -1,0 +1,123 @@
+[
+    {
+        "outputFile": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 57,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 55,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 52,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 53,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 52,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\sample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    }
+]

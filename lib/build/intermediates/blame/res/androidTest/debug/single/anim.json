@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\expandable_hide.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\lib\\build\\intermediates\\bundles\\debug\\res\\anim\\expandable_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\expandable_show.xml",
+        "source": "C:\\Users\\Phil\\Desktop\\ExpandableLayout\\lib\\build\\intermediates\\bundles\\debug\\res\\anim\\expandable_show.xml"
+    }
+]
